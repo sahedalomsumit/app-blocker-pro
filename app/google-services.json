@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708120754097",
+    "project_id": "sahed-app-blocker-pro",
+    "storage_bucket": "sahed-app-blocker-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708120754097:android:2c229fe0adb3689e4caf90",
+        "android_client_info": {
+          "package_name": "com.sahed.app_blocker_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708120754097-cvvobh8ah4m7hd473u1st6g5psnv04a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahed.app_blocker_pro",
+            "certificate_hash": "f37dccca3315486baae668781967f7458c2cc6ad"
+          }
+        },
+        {
+          "client_id": "708120754097-mllp8jfi4c29aie327efekbafbmi2o6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahed.app_blocker_pro",
+            "certificate_hash": "b7d481fb0b340c4558a3b3b9902da0a50bae2f46"
+          }
+        },
+        {
+          "client_id": "708120754097-jvihtr032414elh7eo415hd4ibj87anu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCpHap_H_YSt-jIOdaaevamiiNxECNt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708120754097-jvihtr032414elh7eo415hd4ibj87anu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
